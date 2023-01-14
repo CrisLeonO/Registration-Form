@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+}
+
+.table{
+    display: inline-block;
+    width: 42%;
+    text-align: center;
+    margin-left: 28%;
+}
+
+.obligatory{
+    color: red;
+    font-weight: bold;
+}
+
+th, td{
+    text-align: left;
+}
+
+.input{
+    width: 250px;
+    height: 20px;
+}
+
+.birthday{
+    width: 253px;
+    height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+.button{
+    margin-left: 28%;
+    background-color: green;
+    width: 250px;
+    border-radius: 5px;
+    border-color: lightgreen;
+    color: white;
+    font-size: 20px;
+    padding: 12px 0px 10px;
+}
